@@ -13,6 +13,6 @@ We wrote a function that took a list of number and maximum number as parameters,
 
 Iterate through the process by removing a random number from the possible values list and placing it in the list of number list. 
 The specificity of this method is: Efficient and too fast. 
-
+Du courage tout va bien aller
 
 
